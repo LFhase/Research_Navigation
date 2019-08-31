@@ -1,4 +1,5 @@
 # Research_Navigation
+
 ## To Read
 Graph Neural Network
 - https://github.com/thunlp/GNNPapers
@@ -13,3 +14,4 @@ Natural Language Processing
 
 ## Readed
 - [NLP](https://github.com/LFhase/Research_Navigation/blob/master/NLP.md)
+- [Finite Navigation (Chinese Column)](https://zhuanlan.zhihu.com/finte-nav)
