@@ -1,5 +1,7 @@
 # Research_Navigation
 
+A collection of interesting papers (CS mainly) 
+
 ## To Read
 Graph Neural Network
 - https://github.com/thunlp/GNNPapers
