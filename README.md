@@ -11,8 +11,14 @@ Reinforcement Learning
 - TStar: https://arxiv.org/pdf/1809.07193.pdf
 
 Natural Language Processing
-- To Tune or Not To Tune? How About the Best of Both Worlds? https://arxiv.org/abs/1907.05338
-- How to Fine-Tune BERT for Text Classification? https://arxiv.org/abs/1905.05583
+
+Deep Learning
+- http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+- https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1502.01852
+- https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1312.6120
+- https://link.zhihu.com/?target=http%3A//arxiv.org/abs/1409.2329
+- https://link.zhihu.com/?target=http%3A//jmlr.org/proceedings/papers/v37/jozefowicz15.pdf
+- Bag of Tricks
 
 ## Readed
 - [NLP](https://github.com/LFhase/Research_Navigation/blob/master/NLP.md)
